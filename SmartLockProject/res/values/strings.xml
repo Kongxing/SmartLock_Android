@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">Smart Lock</string>
+    <string name="lock_button">Lock</string>
+    <string name="open_button">Open</string>
+    <string name="ipaddress">10.10.1.100</string>
+    <string name="wifi_string">Wifi Control</string>
+    <string name="bluetooth_string">Bluetooth Control</string>
+
+</resources>
